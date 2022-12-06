@@ -1,5 +1,5 @@
 # Preview
-https://papaya-alfajores-d8dc22.netlify.app/
+https://w-tenzies-game.netlify.app/
 
 
 # Getting Started with Create React App
