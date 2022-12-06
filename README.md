@@ -1,5 +1,5 @@
 # Preview
-https://w-tenzies-game.netlify.app/
+https://w-tenzies-game.netlify.app
 
 
 # Getting Started with Create React App
